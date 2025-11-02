@@ -1,6 +1,6 @@
 # BMW Worldwide Sales Analysis (2010–2024)
 
-<img width="1147" height="645" alt="image" src="https://github.com/user-attachments/assets/3665c884-474c-4984-98a2-4bf4b9186992" />
+<img width="1132" height="641" alt="Executive Summary" src="https://github.com/user-attachments/assets/32e1cf16-dc0d-468d-a949-cca0d45ce6b8" />
 
 ## 📌 Overview
 This project is a **Power BI dashboard** analyzing BMW worldwide sales from **2010 to 2024**. It provides insights into:
@@ -8,7 +8,7 @@ This project is a **Power BI dashboard** analyzing BMW worldwide sales from **20
 - Total Revenue
 - Average Price
 - Regional performance
-- Model, Color, and Fuel Type trends
+- Model, Color, Fuel Type, and Engine Size trends
 
 The dashboard is designed for **business decision-making**, enabling users to explore sales patterns and identify key drivers.
 
@@ -18,7 +18,7 @@ The dashboard is designed for **business decision-making**, enabling users to ex
 - **Multi-Page Dashboard**:
   - **Executive Summary**: KPIs, global trends, and regional performance.
   - **Performance by Model, Color & Fuel Type**: Category-level insights.
-  - **Detailed Sales Analysis**: Drill-down with interactive filters.
+  - **Detailed Sales Analysis**: Drill-down with interactive filters including Engine Size.
 - **Interactive Filters**: Year, Region, Fuel Type, Transmission, Color, Engine Size.
 - **Visuals**: Line charts, bar charts, maps, scatter plots, and tables.
 - **KPIs**: Total Sales Volume, Total Revenue, Average Price.
@@ -32,19 +32,23 @@ The dashboard is designed for **business decision-making**, enabling users to ex
 - Map: Net Sales by Region
 - Bar Chart: Sales Volume by Region
 
-![Executive Summary](screenshots/executive_summaryolor & Fuel Type
+<img width="1132" height="641" alt="Executive Summary" src="https://github.com/user-attachments/assets/d2afcf3a-9c53-446a-9b82-21431ec0312b" />
+
+
+### 2. Performance by Model, Color & Fuel Type
 - Bar Charts: Sales Volume, Revenue, and Average Price by Model
 - Bar Charts: Sales Volume, Revenue, and Average Price by Color
 - Bar Charts: Sales Volume, Revenue, and Average Price by Fuel Type
 
-![ategory Performance
+<img width="1135" height="645" alt="Performance by Model, Color   Fuel Type" src="https://github.com/user-attachments/assets/2f853568-a79a-4e47-ac06-50776b1bfb5c" />
 
 ### 3. Detailed Sales Analysis
 - Interactive Table with filters:
   - Region, Year, Fuel Type, Transmission, Color, Engine Size
-- Columns: Model, Price, Net Sales, Sales Volume, Mileage
+- Columns: **Model**, **Engine_Size_L**, **Price_USD**, **Net Sales**, **Sales_Volume**, **Mileage_KM**
 
-![etailed Analysis
+<img width="1142" height="646" alt="Detailed Sales Analysis" src="https://github.com/user-attachments/assets/b1a16493-f953-416a-b7b1-630d76af3d33" />
+
 
 ---
 
