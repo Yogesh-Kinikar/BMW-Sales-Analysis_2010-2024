@@ -3,7 +3,7 @@
 <img width="1132" height="641" alt="Executive Summary" src="https://github.com/user-attachments/assets/32e1cf16-dc0d-468d-a949-cca0d45ce6b8" />
 
 ## 📌 Overview
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logod
+https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=powerbi
 This project is a **Power BI dashboard** analyzing BMW worldwide sales from **2010 to 2024**. It provides insights into:
 - Total Sales Volume
 - Total Revenue
@@ -75,4 +75,5 @@ Total Sales Volume = SUM('BMW'[Sales_Volume])
 Total Revenue = SUM('BMW'[Price_USD])
 Average Price = AVERAGE('BMW'[Price_USD])
 Net Sales By Region = CALCULATE(SUM('BMW Project'[Net Sales]), ALLEXCEPT('BMW Project','BMW Project'[Region]))
+
 
